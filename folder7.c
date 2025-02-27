@@ -3,7 +3,7 @@
 int main()
 
 {
-    int Length, Breadth, Perimeter, Area;
+    float Length, Breadth, Perimeter, Area;
     printf("Enter the value of Length :");
     scanf("%d", &Length);
     printf("Enter the value of Breadth :");
