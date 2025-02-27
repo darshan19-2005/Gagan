@@ -7,10 +7,10 @@ int main()
     printf("Enter the value of Length :");
     scanf("%d", &Length);
     printf("Enter the value of Breadth :");
-    scanf("%d", &Breadth);
-    Perimeter=2 * (Length + Breadth);
+    scanf("%d", &readth);
+    Perimeter=2 * (Length + readth);
     printf("The perimeter of the rectangle is :%d\n ", Perimeter);
-    Area=(Length * Breadth);
+    Area=(Length * readth);
     printf("The area of the rectangle is :%d\n", Area);
     
     return 0;
