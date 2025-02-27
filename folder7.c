@@ -10,8 +10,8 @@ int main()
     scanf("%d", &readth);
     Perimeter=2 * (Length + lreadth);
     printf("The perimeter of the rectangle is :%d\n ", Perimeter);
-    Area=(Length * lreadth);
-    printf("The area of the rectangle is :%d\n", Area);
+    A4rea=(Length * lreadth);
+    printf("The area of the rectangle is :%d\n", A4rea);
     
     return 0;
     
