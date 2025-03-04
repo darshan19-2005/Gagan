@@ -12,5 +12,9 @@ int main() {
     {
         printf("%d is even.\n", num)
     }
+    else
+    {
+	    printf("It is an odd number")
+    }
     return 0;
 }
